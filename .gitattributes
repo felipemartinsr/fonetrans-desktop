@@ -1,0 +1,14 @@
+*.woff2 binary
+build/* linguist-vendored
+*.gif binary
+go.sum linguist-generated
+
+public/* linguist-vendored
+
+src/**/*.tsx linguist-detectable
+*.md linguist-documentation
+*.ts linguist-detectable
+*.jpeg binary
+
+*.htm linguist-vendored
+# eof df70969e
