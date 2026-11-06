@@ -1,0 +1,4 @@
+dist/
+.pnpm-store/
+npm-debug.log*
+*.tgz
